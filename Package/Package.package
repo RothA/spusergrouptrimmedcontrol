@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="5421bedc-16c9-41db-b2c0-9d6e8fb72234" solutionId="5421bedc-16c9-41db-b2c0-9d6e8fb72234" resetWebServer="false" name="SPUserGroupTrimmedControl" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="2e3fc437-3cad-4a4b-9fe1-83bd542223a6" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="142cae01-7f8f-4078-a591-36bfd0e72bb7" />
+  </projectItems>
+</package>

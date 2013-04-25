@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Solutions>
+  <Solution Path="SPUserGroupTrimmedControl.wsp" CASPolicies="false" GACDeployment="true">
+    <WebApplications>
+      <WebApplication>http://localhost/</WebApplication>
+    </WebApplications>
+  </Solution>
+</Solutions>
