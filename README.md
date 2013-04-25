@@ -9,13 +9,19 @@ Installation
 To install this control you can package the solution yourself OR grab the \installation\SPUserGroupTrimmedControl.wsp file and deploy it to your SharePoint environment.
 
 You can also copy the following files to your SharePoint server:
+	
 	1. \installation\Install-Solutions.ps1
+	
 	2. \installation\solutions.xml
+	
 	3. \installations\SPUserGroupTrimmedControl.wsp
 
 Then do the following on your SharePoint server.
+	
 	1.  Run the SharePoint 2010 Management Shell as an administrator.
+	
 	2.  Navigate to the folder where the files listed above are located.
+	
 	3.  Run the Install-Solutions.ps1 file which will handle deploying and activiting the SharePoint solution
 
 Usage
